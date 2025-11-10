@@ -115,7 +115,7 @@ Next Goal: Add backend connectivity for real-time data & authentication
 
 Developer
 
-Developed by: Ronit Ghai
+Developed by: Ronit Ghai 
 Role: Flutter Developer | UI/UX Integrator | API Implementation
 
 
